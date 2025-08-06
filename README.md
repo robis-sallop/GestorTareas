@@ -96,4 +96,4 @@ El frontend se ejecuta por defecto en `http://localhost:8080`.
 
 ---
 
-Desarrollado por 3IT
+Desarrollado por robis-sallop
